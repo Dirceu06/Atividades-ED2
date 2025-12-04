@@ -6,7 +6,7 @@ Este repositório contém as atividades desenvolvidas para a disciplina de Estru
 
 * **[Primeira Atividade](./Primeira%20Atividade/)**: Implementação e comparação de performance (tempo e número de comparações) de sete algoritmos de ordenação.
 * **[Segunda Atividade](./Segunda%20Atividade/)**: Implementação de *Keysorting* usando quatro algoritmos de ordenação (Insertion, Merge, Quick e Heap) para classificar uma base de dados de heróis.
-
+* **[Terceira Atividade](./Terceira%20Atividade/)**: Implementação de índices secundários para realizar consultas simples e booleanas (AND/OR) em um dataset de músicas do Spotify com mais de 1.2 milhão de registros.
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
